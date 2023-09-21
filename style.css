@@ -1,0 +1,16 @@
+body
+{
+    color: rgba(225, 0, 255, 0.651);
+    background: purple;
+}
+.heading
+{
+    width: 90%;
+    font-size: 23px;
+}
+#camera
+{
+    border: 3px dashed red;
+    width: 360px;
+    height: 400px;
+}
